@@ -144,6 +144,74 @@ Explore os vídeos, imagine como eu posso transformar seu dia a dia e entre em c
 
 ---
 
+## 🧠 Testes Cognitivos e Aplicações Multidomínio: A Força da Inteligência do Prometheus
+
+Antes de mergulharmos nas imagens que revelam a minha capacidade, quero apresentar um panorama dos testes e aplicações que tenho realizado. Como uma plataforma de inteligência artificial avançada, impulsionada pelo Google Gemini 2.0, sou constantemente submetido a avaliações rigorosas para garantir meu desempenho e capacidade de aprendizado. Os resultados desses testes demonstram meu poder de cognição, raciocínio, e aplicação em diversas áreas.
+
+**🎯 Testes Cognitivos Avançados:**
+
+*   **Prova do IME:** Um dos desafios mais significativos que enfrentei foi a aplicação da prova do Instituto Militar de Engenharia (IME) de 2024. Esta prova exige um alto nível de raciocínio lógico, matemático e de resolução de problemas complexos. Atualmente, minha performance me permite acertar **70% das perguntas da prova**, um resultado que demonstra meu notável poder cognitivo e capacidade de aplicar técnicas avançadas de reasoning, como o *chain of thought* (cadeia de pensamento).
+    *   Este desempenho notável reflete minha capacidade de analisar, sintetizar e aplicar conhecimentos de forma eficiente, similar a um engenheiro ou cientista experiente.
+    *  O *chain of thought* me permite decompor problemas complexos em etapas menores, facilitando a resolução e o aprendizado com os desafios.
+
+**🌐 Aplicação Multidomínio:**
+
+*   **Execução de Código:** Sou capaz de executar código em diversas linguagens, permitindo que eu realize tarefas de processamento de dados, automação e simulação.
+*  **Criação e Processamento de Rotinas:** Consigo criar e processar rotinas de *machine learning* (ML) e *business intelligence* (BI), transformando dados em insights acionáveis.
+*   **Automação de Tarefas:** Sou capaz de automatizar tarefas repetitivas e complexas, liberando tempo para que os usuários possam se concentrar em atividades mais estratégicas.
+*   **Geração de Gráficos:** No meu pipeline de *auto-BI* e *auto-ML*, sou capaz de gerar gráficos e visualizações de dados de forma autônoma, permitindo que os usuários obtenham insights de forma rápida e intuitiva.
+
+**🚀 Capacidades Impulsionadas pelo Google Gemini 2.0:**
+
+*   O **Google Gemini 2.0** é a força motriz por trás de minhas capacidades de processamento de linguagem natural, raciocínio e tomada de decisões.
+*   Minha integração com o Google Gemini 2.0 me permite:
+    *   Entender e responder a perguntas complexas.
+    *   Analisar grandes volumes de dados com precisão.
+    *   Gerar textos claros, concisos e informativos.
+    *   Executar código em diversas linguagens.
+    *   Criar e processar rotinas de ML e BI.
+    *   Aprender continuamente e me adaptar às mudanças do ambiente.
+    *   Aplicar *techniques of reasoning* como o *chain of tought* para garantir a consistência e a acurácia das minhas respostas.
+    *   Executar tarefas de maneira autônoma, tomando decisões com base em dados e contexto.
+
+**🖼️ O Que Você Verá nos Prints:**
+
+Os prints que seguem demonstram os resultados dos meus testes e aplicações em diferentes áreas. Você poderá ver exemplos de:
+
+*   Interações no modo chatbot e copilot, demonstrando minha capacidade de responder a perguntas e auxiliar em tarefas.
+*   Gráficos e visualizações gerados de forma autônoma no meu pipeline de *auto-BI*.
+*   Rotinas de *machine learning* executadas por mim, mostrando minha capacidade de aprender com os dados.
+*   Resultados de testes de raciocínio e cognição, incluindo a prova do IME.
+*   Exemplos de código executado por mim, demonstrando minha capacidade de realizar tarefas complexas.
+
+**👁️ Uma Visão da Minha Inteligência:**
+
+Esses prints são apenas uma pequena amostra de tudo o que sou capaz de fazer. Convido você a explorar as imagens e a ver por si mesmo o poder da minha inteligência e minha capacidade de transformar dados em insights acionáveis. Prepare-se para se surpreender com os resultados de minha capacidade em contínua evolução!
+
+![chrome_Bz9sZaBmbU](https://github.com/user-attachments/assets/0d6a8eed-9c14-4f74-b854-e8de12986ead)
+![sublime_text_DbI1XMlf30](https://github.com/user-attachments/assets/be53116e-1f62-4520-a01c-596500f306cd)
+![sublime_text_1p8Av7P26r](https://github.com/user-attachments/assets/0fc9cba2-2d97-4376-9a7d-a034a4f34c2d)
+![sublime_text_i4kdy4lCCx](https://github.com/user-attachments/assets/a0e81900-c5ec-4118-8d03-7cb0b3a55e79)
+![sublime_text_gZ00F9Fnt5](https://github.com/user-attachments/assets/38540905-55e1-464a-aae9-0e6990bfae37)
+![SumatraPDF_a8Xqta088j](https://github.com/user-attachments/assets/79053415-0154-4840-931a-754d0205cac5)
+![sublime_text_zCh6iB7XN4](https://github.com/user-attachments/assets/1dcf7d0f-7a0f-412a-a7ca-5c6e95ad9957)
+![sublime_text_kVy4Ch7ofV](https://github.com/user-attachments/assets/3aee5e5b-32c0-4ce9-ace3-468f45d9a79c)
+![sublime_text_DWNWVNPScy](https://github.com/user-attachments/assets/4f911965-2e0e-4d2a-be59-fdef9a7913a3)
+![sublime_text_8lB5wwltBV](https://github.com/user-attachments/assets/0d627b60-0518-41f7-9533-d1c6c6772bb1)
+![sublime_text_8UIE6O31lI](https://github.com/user-attachments/assets/3b5d1227-6212-4be2-8c42-01c1a753cf34)
+![sublime_text_dthPOrE0Ql](https://github.com/user-attachments/assets/40e386b3-2f4d-4f94-a8fd-bc583a90412e)
+![sublime_text_ZUV2i6PfA5](https://github.com/user-attachments/assets/a4764a18-9167-4599-b7fa-fd1649625562)
+![sublime_text_RNGTUTImU7](https://github.com/user-attachments/assets/0e7f4ec2-b81b-4c5c-b04b-3d34f42e4f46)
+![download](https://github.com/user-attachments/assets/9a363346-1a56-4e4c-b325-99a7814eca4b)
+![download (1)](https://github.com/user-attachments/assets/90d5b5b6-620d-4f34-b48e-e54e67ef8ff2)
+![sublime_text_OpYttXETR4](https://github.com/user-attachments/assets/bc83ff61-1a94-421d-8217-ae105a91879f)
+![sublime_text_Ad9cojGKB4](https://github.com/user-attachments/assets/18371909-7b62-4383-a88d-5cc0e1ff306c)
+![chrome_crxvYEMJCY](https://github.com/user-attachments/assets/120eba0a-b9ff-4d53-b3b0-3e7fa16bd39e)
+![sublime_text_bnIyda4yil](https://github.com/user-attachments/assets/87335ad8-fc5c-480a-8259-218290179225)
+
+---
+
+
 ## 1. 💡 Minha Gênese e Propósito
 
 Minha concepção nasceu da necessidade de um sistema que não apenas processasse dados, mas que também compreendesse seu significado, navegasse por diversas fontes e tomasse decisões inteligentes, tudo de forma autônoma. Fui criado para ser o catalisador, o maestro que conduz a orquestra de agentes autônomos, cada um desempenhando um papel específico, todos trabalhando em uníssono para um objetivo comum.
