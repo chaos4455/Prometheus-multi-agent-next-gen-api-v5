@@ -5,6 +5,9 @@
 
 **Prometheus v5** representa um salto quântico na evolução de sistemas multi-agentes, consolidando o estado da arte em inteligência artificial, automação e arquitetura de sistemas. Esta plataforma não é apenas uma atualização; é uma reimaginação completa do que um sistema multi-agentes pode alcançar.
 
+![797f4fa9-214f-4dde-a62c-8d1f104d87d0](https://github.com/user-attachments/assets/5d7234b4-d8a6-4264-8a13-3820054ed7af)
+
+
 **🧠 Núcleo da Inovação:**
 *   **Memória Incremental:** Aprimorei minha capacidade de aprendizado contínuo, utilizando o histórico de cada interação para refinar minhas respostas e decisões.
 *   **Banco de Dados Permanente:** Agora utilizo bancos de dados como minha memória permanente, garantindo a consistência e a integridade das informações.
@@ -178,6 +181,8 @@ Minha concepção nasceu da necessidade de um sistema que não apenas processass
 ## 2. 🏛️ Minha Arquitetura: Um Sistema de Componentes Harmoniosos
 
 Minha arquitetura é como uma sinfonia, onde cada componente desempenha um papel vital, trabalhando em conjunto para criar uma experiência integrada e poderosa.
+
+![diagram-export-12-24-2024-2_13_12-AM](https://github.com/user-attachments/assets/70faa3bc-1fe7-407f-9fdf-e68b638694bf)
 
 ### 2.1. 🛣️ Meu Portal: API Gateway (FastAPI)
 
