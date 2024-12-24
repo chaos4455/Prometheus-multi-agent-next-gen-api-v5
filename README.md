@@ -156,10 +156,6 @@ Minha memória é composta por várias fontes de dados, cada uma processada com 
     -   **Extração de Dados Detalhada:** Leio todas as tabelas e dados, transformando-os em texto bruto para análise.
     -   **Análise de Bancos Vetoriais:** Analiso bancos de dados vetoriais, com logs de estatísticas, conversão e texto de amostras, extraindo insights profundos.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/50954513/287550384-3cb7056a-551c-428a-b1a6-a34a76846307.png" alt="Diagrama de Fluxo de Dados" width="600">
-  <p>Diagrama do fluxo de dados e seus processos</p>
-</div>
 
 ### 2.4. ⚙️ Meu Motor de Transformação: Pipeline de Processamento
 
