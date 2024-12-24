@@ -317,10 +317,6 @@ Minha lógica é como um rio que flui continuamente, transformando dados em insi
 4.  **Processamento da IA:** Envio o prompt para o Google Gemini para que a IA possa analisar e gerar uma resposta.
 5.  **Salvamento e Retorno:** Salvo a resposta em Markdown e a retorno ao usuário em formato JSON.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/50954513/287551008-8eb38a20-6d55-463f-8374-c7715d42719e.png" alt="Fluxograma Detalhado" width="750">
-  <p>Fluxograma com todos os processos e decisões</p>
-</div>
 
 ### 4.2. 🧠 Mecanismos Internos da IA
 
